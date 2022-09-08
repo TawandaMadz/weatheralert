@@ -1,0 +1,2 @@
+this app assists in giving you weather reports in the morning before you leave your home using API. its sends either text message or email.
+ 
